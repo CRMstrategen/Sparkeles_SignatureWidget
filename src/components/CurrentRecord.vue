@@ -4,7 +4,7 @@ import { store } from "../store";
 </script>
 
 <template>
-    <pre>{{ store.currentRecord }}</pre>
+  <pre>{{ store.signature }}</pre>
 </template>
 
 <style></style>
